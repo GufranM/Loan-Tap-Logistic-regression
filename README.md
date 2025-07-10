@@ -4,6 +4,7 @@
 
 LoanTap is an innovative online platform that offers customized loan products to millennials. By providing instant and flexible loans under consumer-friendly terms, LoanTap serves salaried professionals and businessmen. The data science team is focused on building an underwriting layer to evaluate the creditworthiness of individuals applying for personal loans.
 
+
 ## Problem Statement
 
 The objective of this case study is to determine whether a credit line should be extended to an individual based on a set of attributes. Additionally, the project aims to recommend suitable repayment terms for the approved loans.
